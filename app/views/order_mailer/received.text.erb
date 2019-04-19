@@ -1,0 +1,9 @@
+Dear <%= @order.name %>
+
+Thank you for you purchase.
+
+You ordered the following:
+
+<%= render @order.line_items -%>
+
+We'll contact you again once the order has shipped.
