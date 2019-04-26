@@ -28,6 +28,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
 
 gem 'webpacker', '~> 4.0', '>= 4.0.2'
+gem 'i18n-js'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
